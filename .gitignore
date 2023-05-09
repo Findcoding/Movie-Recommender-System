@@ -9,8 +9,6 @@ media
 # Local Settings #
 local_settings.py
 
-# Dataset
-Dataset/
 
 # Backup files #
 *.bak
