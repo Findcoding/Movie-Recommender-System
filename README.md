@@ -4,7 +4,7 @@
 https://github.com/Findcoding/Movie-Recommender-System/assets/69085143/74b89f1d-fc61-491e-8078-41c25478bc4f
 
 
-![Home](https://github.com/Findcoding/Movie-Recommender-System/assets/69085143/402066ea-d069-4aed-98a6-ad72069b9f37)
+<!-- ![Home](https://github.com/Findcoding/Movie-Recommender-System/assets/69085143/402066ea-d069-4aed-98a6-ad72069b9f37) -->
 
 ## Create Virtual Environment
 - Download virtual Environment Module
