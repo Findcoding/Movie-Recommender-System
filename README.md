@@ -1,4 +1,9 @@
 # Movie-Recommender-System
+
+
+https://github.com/Findcoding/Movie-Recommender-System/assets/69085143/74b89f1d-fc61-491e-8078-41c25478bc4f
+
+
 ![Home](https://github.com/Findcoding/Movie-Recommender-System/assets/69085143/402066ea-d069-4aed-98a6-ad72069b9f37)
 
 ## Create Virtual Environment
@@ -34,7 +39,9 @@ For instance, consider a person who loves Dilwale Dulhania Le Jayenge, My Name i
 To personalise our recommendations more, we build an engine that computes similarity between movies based on certain metrics and suggests movies that are most similar to a particular movie that a user liked. Since we will be using movie metadata (or content) to build this engine.
 ![Content Based Recommender](https://github.com/Findcoding/Movie-Recommender-System/assets/69085143/8cf0f430-b703-4980-931f-67d3e9ceea0d)
 
-- **Hybrid Recommender:** In this section, We build a simple hybrid recommender that brings together techniques we have implemented in the content based and collaborative filter based engines. This is how it will work:
+- **Hybrid Recommender:** In this section, We build a simple hybrid recommender that brings together techniques we have implemented in the content based and collaborative filter based engines. 
+
+This is how it will work:
  _Input:_ User ID and the Title of a Movie
  _Output:_ Similar movies sorted on the basis of expected ratings by that particular user.
  ![Hybrid Recommender](https://github.com/Findcoding/Movie-Recommender-System/assets/69085143/6606777b-4b43-404a-8050-cc639d7c15a6)
